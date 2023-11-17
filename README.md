@@ -1,8 +1,8 @@
-# Cloud-girls_alura-javascripit-para-web
+# Cloud-girls_alura-aluramidi
 
 # Projeto Aluramidi
 
-## Alura - Curso de JavaScript para Web: Crie páginas dinâmicas
+## Curso de JavaScript para Web: Crie páginas dinâmicas 
 
 ### Identificando os papéis de cada tecnologia da Web para construção de páginas
 ### Associando o JavaScript com HTML através do DOM
